@@ -31,7 +31,7 @@ A step-by-step series of examples that tell you how to get a development environ
 1. **Clone the Repository:** First, clone the repository to your local machine using the following command:
 
 ```
-https://github.com/yourusername/simple_rust.git
+https://github.com/cristoph143/SimpleRust
 ```
 
 2. **Build the Project:** Navigate into the project directory and build the project using Cargo, Rust's package manager and build system:
@@ -98,10 +98,6 @@ your_project_name --process file.txt
 ```
 
 Replace the example commands and options with those relevant to your application.
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/your/YourProjectName/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
